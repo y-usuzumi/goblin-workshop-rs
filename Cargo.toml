@@ -1,0 +1,6 @@
+[package]
+name = "goblin-workshop"
+version = "0.1.0"
+authors = ["Yukio Usuzumi <anohigisavay@gmail.com>"]
+
+[dependencies]
